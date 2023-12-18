@@ -16,6 +16,7 @@ To install and configure the Hostel WiFi AutoLogin Chrome Extension:
 8. Click on "Load unpacked" and select the downloaded extension files.
 
 **Contact**
+
 For any questions or concerns, please contact the project maintainer:
 
 Darshan Poudel - 079bct036.darshan@pcampus.edu.np
