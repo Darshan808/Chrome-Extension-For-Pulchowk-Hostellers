@@ -19,4 +19,5 @@ h3 {
 }
 p{
     align-self: flex-end;
+    font-weight: bold;
 }
