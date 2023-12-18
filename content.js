@@ -1,5 +1,5 @@
 const credentials = {
-  username: "079bct036",
+  username: "<<---YOUR USERNAME GOES HERE---->>",
   password: "<<---YOUR PASSWORD GOES HERE---->>",
 };
 const login = () => {
