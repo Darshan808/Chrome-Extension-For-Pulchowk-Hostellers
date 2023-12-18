@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Your Extension Name",
+  "version": "1.0",
+  "description": "Description of your extension",
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Click to activate the extension"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://10.100.1.1:8090/httpclient.html"],
+      "js": ["content.js"]
+    }
+  ]
+}
