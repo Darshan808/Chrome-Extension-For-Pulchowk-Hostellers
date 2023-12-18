@@ -6,14 +6,20 @@ The Hostel WiFi AutoLogin Chrome Extension is a time-saving tool designed for st
 
 To install and configure the Hostel WiFi AutoLogin Chrome Extension:
 
-1. Download the extension files from the repository.
-2. Go to the downloaded folder.
-3. Open content.js file.
-4. Modify username and password properties of credentials object.
-5. Open Google Chrome.
-6. Navigate to chrome://extensions/.
-7. Enable "Developer mode" in the top right corner.
-8. Click on "Load unpacked" and select the downloaded extension files.
+1. Go back to the main page of the repository.
+2. Click on green 'Code' button.
+3. Click on 'Download Zip' and come back here again.
+4. Once the ZIP folder is downloaded, Extract its content.
+5. Go to the extracted folder.
+6. Open content.js file.
+7. Modify username and password properties.
+8. Save the file (ctrl+s) and close it.
+9. Open Google Chrome.
+10. Type chrome://extensions/ in your search bar. Or you can navigate to extensions manually.
+11. Enable "Developer mode" in the top right corner.
+12. Click on "Load unpacked" and select the downloaded extension files.
+13. Now go to the page where you used to login wifi everytime ('10.100.1.1:8090').
+14. See the Magic.
 
 **Contact**
 
