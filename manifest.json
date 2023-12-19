@@ -18,7 +18,8 @@
     "default_title": "Click to activate the extension"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "content_scripts": [
     {
